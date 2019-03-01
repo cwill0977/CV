@@ -1,0 +1,23 @@
+body{
+background-color: green;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+img{
+  height: 100px
+}
+h1{
+  color: blue;
+}
+h3{
+  color: red;
+}
+p
+ {
+  font-family: Arial, Helvetica, sans-serif;
+}
